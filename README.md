@@ -1,4 +1,4 @@
-<h2 center>ASUS_R414U_Hackintosh</h2>
+<h2 align="center">ASUS_R414U_Hackintosh</h2>
 
 ### Mac Version
 
@@ -27,8 +27,7 @@
 - **屏幕亮度调节**
 - **触控板**
 - **固态已开启trim状态（Clover）**
-- **修正显存显示1536MB->2048MB **
-
+- **修正显存显示1536MB->2048MB(失效) **
 
 
 ### 注意事项
